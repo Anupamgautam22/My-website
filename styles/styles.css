@@ -667,9 +667,7 @@ section {
   border-top: 2px solid var(--color-grey-2); /* Adjust border color */
 }
 
-.footercopy {
-  /* Add styles for the footercopy class if needed */
-}
+
 
 .containerfooter .copyright {
   font-size: 14px;
